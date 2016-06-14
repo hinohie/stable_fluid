@@ -1,2 +1,2 @@
 # stable_fluid
-Stable fluid
+Stable fluid for openGL. no shader
